@@ -2,4 +2,6 @@
 Lab solutions
 
 Mitchell Klein
-Lab 3 
+Lab 3
+
+This might cause a merge conflict 
